@@ -1,2 +1,5 @@
 # hello-world-course
-Ignore...
+
+Hi Beings...
+
+I will mostly update simple python codes. Specifically some lame/amatuer codes
